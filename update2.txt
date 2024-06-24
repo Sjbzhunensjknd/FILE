@@ -1,1 +1,6 @@
-[FBAN/FB4A;FBAV/66.0.0.33.73;FBBV/23966353;FBDM/{density=1.5,width=480,height=800};FBLC/es_LA;FBCR/TELCEL;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G313ML;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/427.0.0.31.63;FBBV/444411021;FBDM/{density=2.25,width=720,height=1280};FBLC/en_US;FBRV/791484986;FBCR/Orange GN;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/LMY47V;FBSV/7.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/415.0.0.34.107;FBBV/442016421;FBDM/{density=4.0,width=1125,height=736};FBLC/en_US;FBRV/331288850;FB_FW/2;FBCR/Nepal_Telecom;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/MAR-LX3A;FBSV/9.1.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/269.0.0.50.127;FBBV/212782999;FBDM/{density=1.75,width=720,height=1396};FBLC/en_US;FBCR/Robi;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/S11;FBSV/10;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/82.0.0.4829;FBBV/4466681;FBCR/VIVO;FBMF/samsung;FBBD/samsung;FBDV/SM-G780G;FBSV/13;FBCA/arm64-v8a:null;FBDM/{density=3.0,width=1080,height=2168};FB_FW/1;]
+[FBAN/Orca-Android;FBAV/17.0.0.4136;FBBV/4152736;FBCR/Orange GN;FBMF/samsung;FBBD/samsung;FBDV/SM-A235F;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=2.8125,width=1080,height=2207};FB_FW/1;]
+[FBAN/FB4A;FBAV/38.0.0.4206;FBBV/4168983;FBDM/{density=2.8,width=1419,height=1676};FBLC/en_US;FBRV/0;FBCR/Verizon;FBMF/Apple;FBBD/Apple;FBPN/com.facebook.katana;FBDV/Mi A1;FBSV/11;FBOP/19;FBCA/armeabi-v7a;]
