@@ -1,4 +1,4 @@
 import os
-os.system("chmod 777 FILE")
+os.system("chmod 777 FILEX")
 os.system("git pull")
-os.system("./FILE")
+os.system("./FILEX")
